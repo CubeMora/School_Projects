@@ -1,0 +1,1 @@
+Identifier: $Ekish1, Operator: =, String: 'dei', Delimitator: ;
