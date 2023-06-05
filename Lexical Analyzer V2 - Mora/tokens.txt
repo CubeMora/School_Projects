@@ -1,0 +1,12 @@
+tokens list
+
+
+$ekish - id
+= - relationalOperator
+21 - int
+; - Delimiter closer
+'String' - string
+123 - int
+32 - int
+== - relationalOperator_equal
+1 - int
